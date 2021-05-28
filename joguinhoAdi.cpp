@@ -21,7 +21,7 @@ int main(){
 		if(numero == pc)
 		{
 			chances = 0;
-			printf("Parabens, voce venceu! O numero era %d\n",  pc);
+			printf("Parabens, voce venceu! O numero era %d\ne sua pontuacao foi : 300",  pc);
 			cout << "\n";
 		}
 		
